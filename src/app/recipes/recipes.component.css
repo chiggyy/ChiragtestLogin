@@ -1,0 +1,22 @@
+.mat_card{
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+	transition: box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 16px;
+    border-radius: 4px;
+    width:40%;
+    margin: 0 auto;
+    text-align:center;
+    background:#74B9FF;
+    position:absolute;
+    top:30%;
+    left:30%;
+}
+.cotainer_login{
+  position:relative;
+  height:90vh;
+}
+p{
+  color:#ffffff;
+  font-size:20px;
+
+}
